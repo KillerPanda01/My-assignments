@@ -8,3 +8,5 @@ Adds my assignment
 [my assignment week 5](https://github.com/KillerPanda01/My-assignments/blob/master/Assignment_week_5.ipynb)
 
 [My Final exam R](https://github.com/KillerPanda01/My-assignments/blob/master/OECD_R_exam.ipynb)
+
+[My Final assignment Python](https://github.com/KillerPanda01/My-assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
